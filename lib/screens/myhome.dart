@@ -12,7 +12,7 @@ class MyHome extends StatelessWidget {
         ),
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Programación Móvil 2020'),
+              title: Text('Binary to Decimal'),
             ),
             body: Center(child: Converter())));
   }
